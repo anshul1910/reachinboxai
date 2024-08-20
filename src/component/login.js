@@ -32,7 +32,7 @@ function Login({ onLogin }) {
 
                 <div className="div2">
                     <button className="create-account">Create an Account</button>
-                    <p>Already have an account? <a href="#">Sign In</a></p>
+                    <p>Already have an account? <a href="/">Sign In</a></p>
                 </div>
             </div>
 
